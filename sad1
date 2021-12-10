@@ -4,7 +4,7 @@
 
 `Set`集合有多个子类，这里我们介绍其中的`java.util.HashSet`、`java.util.LinkedHashSet`这两个集合。
 
-> tips:Set集合取出元素的方式可以采用：迭代器、增强for。
+> tips:Set集合取出元素的方式可以采用：迭代器、增强for。da
 
 `java.util.HashSet`是`Set`接口的一个实现类，它所存储的元素是不可重复的，并且元素都是无序的(即存取顺序不一致)。`java.util.HashSet`底层的实现其实是一个`java.util.HashMap`支持，由于我们暂时还未学习，先做了解。
 
